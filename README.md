@@ -6,7 +6,7 @@ A responsive, visually rich website built for **She Can Foundation** as part of 
 
 ## 🌐 Live Preview
 
-> Upload `index.html` to GitHub Pages or open it directly in any browser.
+> Open `index.html` directly in any browser.
 
 ---
 
@@ -28,10 +28,10 @@ A responsive, visually rich website built for **She Can Foundation** as part of 
 
 - **Full contact form** with Name, Email, Subject dropdown, and Message fields
 - **Client-side form validation** with inline error messages
-- **Success state** — displays "Form Submitted Successfully" after valid submission
-- **Responsive layout** — works on mobile, tablet, and desktop
-- **Modern UI** — glassmorphism cards, gradient accents, smooth animations
-- **NGO sections** — Navbar, Hero with impact stats, Contact info, Footer
+- **Success state** - displays "Form Submitted Successfully" after valid submission
+- **Responsive layout** - works on mobile, tablet, and desktop
+- **Modern UI** - glassmorphism cards, gradient accents, smooth animations
+- **NGO sections** - Navbar, Hero with impact stats, Contact info, Footer
 
 ---
 
@@ -49,7 +49,7 @@ A responsive, visually rich website built for **She Can Foundation** as part of 
 
 1. Clone or download this repository
 2. Open `index.html` in any web browser
-3. That's it — no setup needed!
+3. That's it - no setup needed!
 
 ---
 
