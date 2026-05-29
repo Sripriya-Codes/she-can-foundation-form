@@ -12,8 +12,8 @@ A responsive, visually rich website built for **She Can Foundation** as part of 
 
 ## 📸 Screenshots
 
-![Homepage](screenshot1.png)
-![Form](screenshot2.png)
+![Homepage](homepage.png)
+![Form](form.png)
 
 ---
 
