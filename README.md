@@ -13,7 +13,7 @@ A responsive, visually rich website built for **She Can Foundation** as part of 
 ## 📸 Screenshots
 
 ![Homepage](homepage.png)
-![Form](form.png)
+![Contact Form](contact form.png)
 
 ---
 
