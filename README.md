@@ -72,3 +72,5 @@ She Can Foundation is a youth-driven NGO working towards creating opportunities,
 
 - 🌐 Website: [shecanfoundation.org](https://shecanfoundation.org)
 - 📸 Instagram: [@shecanfoundation.ngo](https://www.instagram.com/shecanfoundation.ngo)
+- 💼 LinkedIn: [She Can Foundation](https://www.linkedin.com/company/shecanfoundation)
+- 📢 WhatsApp Channel: [She Can Foundation Updates](https://whatsapp.com/channel/0029Vb6aI3k5fM5ShePPks3z)
